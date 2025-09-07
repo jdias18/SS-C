@@ -29,7 +29,7 @@ public class Encoder {
     }
 
     /**
-     * Second endonde implementation - without exception handling.
+     * Second encode implementation - without exception handling.
      * @param str
      * @return String
      */
