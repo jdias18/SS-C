@@ -1,5 +1,5 @@
 /**
- * Class Econder to support enconding methods.
+ * Class Encoder to support encoding methods.
  */
 public class Encoder {
 
