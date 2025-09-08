@@ -16,6 +16,13 @@ public class Main {
         System.out.println(Encoder.encode2(input1.toCharArray()));
         System.out.println(Encoder.encode2(input2.toCharArray()));
         System.out.println(Encoder.encode2(input3.toCharArray()));
+
+        System.out.println("Encode3:");
+        System.out.println(Encoder.encode3(input1.toCharArray()));
+        System.out.println(Encoder.encode3(input2.toCharArray()));
+        System.out.println(Encoder.encode3(input3.toCharArray()));
+        System.out.println(Encoder.encode3("".toCharArray()));
+        System.out.println(Encoder.encode3(null));
     }
 }
 
